@@ -1,0 +1,11 @@
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\bin\Debug\ScrapyForm.exe.config
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.Properties.Resources.resources
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.csproj.GenerateResource.Cache
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\bin\Debug\ScrapyForm.exe
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\bin\Debug\ScrapyForm.pdb
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.exe
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.pdb
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.FrmMain.resources
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\bin\Debug\Maticsoft.Common.dll
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Bruce\OneDrive\Project\AnaHtml\ScrapyForm\obj\Debug\ScrapyForm.csprojResolveAssemblyReference.cache
