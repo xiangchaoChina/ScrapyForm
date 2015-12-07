@@ -1,0 +1,13 @@
+[1mdiff --git a/ScrapyForm/App.config b/ScrapyForm/App.config[m
+[1mindex 612472e..2e0d3bc 100644[m
+[1m--- a/ScrapyForm/App.config[m
+[1m+++ b/ScrapyForm/App.config[m
+[36m@@ -13,6 +13,6 @@[m
+   </startup>[m
+   <appSettings>[m
+ [m
+[31m-    <add key="connstr" value="server=127.0.0.1;user id=sa;password=1R67*tyf;persistsecurityinfo=True;database=spidercenter"/>[m
+[32m+[m[32m    <add key="connstr" value="server=127.0.0.1;user id=sa;password=password;persistsecurityinfo=True;database=spidercenter"/>[m
+   </appSettings>[m
+ </configuration>[m
+\ No newline at end of file[m
